@@ -1,3 +1,8 @@
+[![DOI](https://zenodo.org/badge/802541659.svg)](https://zenodo.org/doi/10.5281/zenodo.13334754)
+
+
+
+
 # Auditory-GAN-
 This code is for our article titled"Auditory-GAN: Deep Learning Framework for Improved Auditory Spatial Attention Detection"
 
